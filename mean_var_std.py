@@ -40,4 +40,4 @@ def calculate(ninedigit):
 
 
 
-print(isprime)
+print(calculate(mylist))
